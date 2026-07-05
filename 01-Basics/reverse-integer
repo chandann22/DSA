@@ -1,7 +1,7 @@
 // Problem: 7. Reverse Integer
 // Topic: Basics
 // Pattern: Math
-// Difficulty: Easy
+// Difficulty: Medium
 
 class Solution {
 public:
