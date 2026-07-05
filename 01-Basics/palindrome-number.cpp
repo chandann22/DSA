@@ -1,4 +1,4 @@
-// Problem: 9. Palindrone Number
+// Problem: 9. Palindrome Number
 // Topic: Basics
 // Pattern: Math
 // Difficulty: Easy
