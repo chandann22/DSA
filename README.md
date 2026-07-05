@@ -10,13 +10,13 @@ Every solution here is first solved on **LeetCode / GeeksforGeeks**, then pushed
 
 ## 📊 Tracker
 
-📌 **[View my full DSA Tracker →](DSA Tracker.xlsx)**
+📌 **[View my full DSA Tracker →](DSA%20Tracker.xlsx)**
 
 | Metric | Count |
 |---|---|
 | Total Problems | 289 |
-| ✅ Solved | 0 |
-| ⏳ Remaining | 289 |
+| ✅ Solved | 8 |
+| ⏳ Remaining | 281 |
 
 ---
 
