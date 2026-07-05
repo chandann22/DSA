@@ -1,4 +1,4 @@
-// Problem: 507. Perfect Number
+// Problem: LeetCode 507. Perfect Number
 // Topic: Basics
 // Pattern: Math
 // Difficulty: Easy
