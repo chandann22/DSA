@@ -1,3 +1,8 @@
+// Problem: 1281. Subtract the Product and Sum of Digits of an Integer
+// Link: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+// Topic: Basics
+// Pattern: Math
+// Difficulty: Easy
 class Solution {
 public:
     int subtractProductAndSum(int n) {
