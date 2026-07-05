@@ -2,7 +2,7 @@
 
 ![Problems](https://img.shields.io/badge/Problems-289-blue) ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow) ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C)
 
-> 📅 Solving one DSA problem a day to build strong fundamentals and stay consistent.
+> 📅 Solving DSA problems to build strong fundamentals and stay consistent.
 
 Every solution here is first solved on **LeetCode / GeeksforGeeks**, then pushed here — organized topic-wise, with the underlying pattern noted for quick revision later.
 
@@ -44,11 +44,10 @@ Problems are organized **topic-wise**:
 17-Tries/
 ```
 
-Each file includes a header comment with the problem link, pattern, and difficulty, e.g.:
+Each file includes a header comment with the problem, pattern, and difficulty, e.g.:
 
 ```cpp
 // Problem: Subtract the Product and Sum of Digits of an Integer
-// Link: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 // Pattern: Math
 // Difficulty: Easy
 ```
@@ -66,4 +65,4 @@ Each file includes a header comment with the problem link, pattern, and difficul
 
 ## 📌 Connect
 
-If you're on a similar DSA journey, feel free to explore, star ⭐ the repo, or connect!
+If you're on a similar DSA journey, feel free to explore, star ⭐ the repo, or connect
