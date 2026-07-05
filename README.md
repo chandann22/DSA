@@ -10,7 +10,7 @@ Every solution here is first solved on **LeetCode / GeeksforGeeks**, then pushed
 
 ## 📊 Tracker
 
-📌 **[View my full DSA Tracker →](PASTE_YOUR_TRACKER_LINK_HERE)**
+📌 **[View my full DSA Tracker →](DSA Tracker.xlsx)**
 
 | Metric | Count |
 |---|---|
