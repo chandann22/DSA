@@ -1,5 +1,5 @@
 // Problem: Leetcode 704: Binary Search
-// Topic: Arrays
+// Topic: Binary Search
 // Pattern: Binary Search
 // Difficulty: Easy
 
