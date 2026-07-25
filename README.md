@@ -15,8 +15,8 @@ Every solution here is first solved on **LeetCode / GeeksforGeeks**, then pushed
 | Metric | Count |
 |---|---|
 | Total Problems | 289 |
-| ✅ Solved | 24 |
-| ⏳ Remaining | 265 |
+| ✅ Solved | 25 |
+| ⏳ Remaining | 264 |
 
 ---
 
