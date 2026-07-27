@@ -1,0 +1,28 @@
+// Problem: Leetcode 441: Arranging Coins
+// Topic: Binary Search
+// Pattern: Binary Search
+// Difficulty: Easy
+
+class Solution {
+public:
+    int arrangeCoins(int n) {
+        long long left = 1;
+        long long right = n;
+        int ans = 0;
+        while(left<=right){
+            long long mid = (left+right)/2;
+            long long coins = (mid*(mid+1))/2;
+            if(coins == n){
+                return mid;
+            }
+            else if(coins < n){
+                ans = mid;
+                left = mid + 1;
+            }
+            else{
+                right = mid - 1;
+            }
+        }
+        return ans;
+    }
+};
