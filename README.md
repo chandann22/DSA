@@ -1,10 +1,10 @@
 # 🚀 DSA Journey
 
-![Problems](https://img.shields.io/badge/Problems-289-blue) ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow) ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C)
+![Problems](https://img.shields.io/badge/Problems-200-blue) ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow) ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C)
 
 > 📅 Solving DSA problems to build strong fundamentals and stay consistent.
 
-Every solution here is first solved on **LeetCode / GeeksforGeeks**, then pushed here — organized topic-wise, with the underlying pattern noted for quick revision later.
+Every solution here is first solved on **LeetCode**, then pushed here — organized topic-wise, with the underlying pattern noted for quick revision later.
 
 ---
 
@@ -14,9 +14,9 @@ Every solution here is first solved on **LeetCode / GeeksforGeeks**, then pushed
 
 | Metric | Count |
 |---|---|
-| Total Problems | 289 |
-| ✅ Solved | 36 |
-| ⏳ Remaining | 253 |
+| Total Problems | 200 |
+| ✅ Solved | 14 |
+| ⏳ Remaining | 186 |
 
 ---
 
@@ -31,17 +31,15 @@ Problems are organized **topic-wise**:
 04-BinarySearch/
 05-Strings/
 06-LinkedList/
-07-Recursion/
-08-BitManipulation/
-09-StackQueue/
-10-SlidingWindow/
-11-Heaps/
-12-Greedy/
-13-BinaryTrees/
-14-BinarySearchTrees/
+07-Stack/
+08-Queue/
+09-Recursion/
+10-Backtracking/
+11-Trees/
+12-BST/
+13-Heap/
+14-Hashing/
 15-Graphs/
-16-DynamicProgramming/
-17-Tries/
 ```
 
 Each file includes a header comment with the problem, pattern, and difficulty, e.g.:
@@ -56,7 +54,7 @@ Each file includes a header comment with the problem, pattern, and difficulty, e
 
 ## 🧠 How This Repo Works
 
-- Solve the problem on **LeetCode / GFG** ✅
+- Solve the problem on **LeetCode** ✅
 - Push the code here under its topic folder 📂
 - Update the tracker linked above 📊
 - Repeat daily to keep this profile active 🔥
