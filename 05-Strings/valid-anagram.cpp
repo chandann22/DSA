@@ -1,7 +1,7 @@
-
-
-
-
+// Problem: Leetcode 242: Valid Anagram
+// Topic: Strings
+// Pattern: Hashing
+// Difficulty: Easy
 
 class Solution {
 public:
