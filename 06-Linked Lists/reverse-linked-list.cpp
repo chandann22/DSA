@@ -1,7 +1,7 @@
-
-
-
-
+// Problem: Leetcode 206: Reverse Linked List
+// Topic: Linked List
+// Pattern: Reversal
+// Difficulty: Easy
 
 class Solution {
 public:
