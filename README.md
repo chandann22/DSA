@@ -15,8 +15,8 @@ Every solution here is first solved on **LeetCode**, then pushed here — organi
 | Metric | Count |
 |---|---|
 | Total Problems | 200 |
-| ✅ Solved | 47 |
-| ⏳ Remaining | 153 |
+| ✅ Solved | 50 |
+| ⏳ Remaining | 150 |
 
 ---
 
